@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\programare facultate\info\structuri de date\lab 7\cautare binara\cautare binara\source.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programare facultate\info\structuri de date\lab 7\cautare binara\cautare binara\source.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programare facultate\info\structuri de date\lab 7\cautare binara\cautare binara\source.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Cautare binara.vcxproj -> E:\Programare facultate\Info\Structuri de date\Lab 7\Cautare binara\Debug\Cautare binara.exe

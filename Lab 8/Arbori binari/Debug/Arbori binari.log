@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Programare facultate\Info\Structuri de date\Lab 8\Arbori binari\Source.cpp(79): warning C4101: 'tmp': unreferenced local variable
+E:\Programare facultate\Info\Structuri de date\Lab 8\Arbori binari\Source.cpp(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Arbori binari.vcxproj -> E:\Programare facultate\Info\Structuri de date\Lab 8\Arbori binari\Debug\Arbori binari.exe

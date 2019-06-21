@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Programare facultate\Info\Structuri de date\Lab 9\ABC - stergeri\Source.cpp(312): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Programare facultate\Info\Structuri de date\Lab 9\ABC - stergeri\Source.cpp(219): warning C4101: 'adr': unreferenced local variable
+E:\Programare facultate\Info\Structuri de date\Lab 9\ABC - stergeri\Source.cpp(160): warning C4715: 'stergere_ABC': not all control paths return a value
+  ABC - stergeri.vcxproj -> E:\Programare facultate\Info\Structuri de date\Lab 9\ABC - stergeri\Debug\ABC - stergeri.exe
